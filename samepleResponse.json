@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+            "id": "cnn",
+            "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "Teamsters plan strike at Costco on February 1 - CNN",
+            "description": "Members of the Teamsters union have authorized a strike against Costco on February 1 unless they reach a deal with the warehouse retailer before the current contract expires on January 31.",
+            "url": "https://www.cnn.com/2025/01/20/business/costco-strike-teamsters/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1845091285.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2025-01-20T13:11:00Z",
+            "content": "Members of the Teamsters union have authorized a strike against Costco on February 1 unless they reach a deal with the warehouse retailer before the current contract expires on January 31.\r\nThe union… [+1822 chars]"
+            },
+            {
+                "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+                },
+                "author": "Erica Lamberg",
+                "title": "Eating this breakfast food could help you live longer, study suggests - AOL",
+                "description": "Could eating oatmeal help people live longer? Fox News Digital spoke with two health experts about a recent study linking the regular consumption of oatmeal to longevity.",
+                "url": "https://www.foxnews.com/food-drink/eating-breakfast-food-could-help-you-live-longer-study",
+                "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2025/01/oatmeal-with-cinnamon-sticks.jpg",
+                "publishedAt": "2025-01-20T13:00:37Z",
+                "content": "Eating breakfast regularly has been shown to help reduce the risk of developing type 2 diabetes, cardiovascular disease and obesity, according to UC Davis Health. There is also evidence that eating a… [+5667 chars]"
+                },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Dominic Patten, Ted Johnson",
+    "title": "Trump Inauguration: Tech CEOs Get Choice Spots In Capitol Rotunda - Deadline",
+    "description": "With just minutes left in his presidency, Joe Biden issued a final batch of pardons: Members of his family. His pardons were yet another signal of his fear that allies will be targeted by incoming President Donald Trump. Those pardoned include brother James B…",
+    "url": "http://deadline.com/2025/01/trump-inauguration-live-updates-1236260202/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2025/01/GettyImages-2194362623_4ae246.jpg?w=1024",
+    "publishedAt": "2025-01-20T15:52:00Z",
+    "content": "With just minutes left in his presidency, Joe Biden issued a final batch of pardons: Members of his family.\r\nHis pardons were yet another signal of his fear that allies will be targeted by incoming P… [+7682 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Tanzania's President Samia Suhulu Hassan confirms Marburg virus outbreak - BBC.com",
+    "description": "Tanzania's president says she is \"confident\" the country will \"overcome\" the highly infectious Marburg.",
+    "url": "https://www.bbc.com/news/articles/c3e1v1nywy7o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/227f/live/b90dd9f0-d746-11ef-94cb-5f844ceb9e30.jpg",
+    "publishedAt": "2025-01-20T15:32:50Z",
+    "content": "Tanzania's president has announced an outbreak of Marburg virus, an Ebola-like virus, just a week after her health minister denied that there were any cases in the country.\r\nPresident Samia Suluhu Ha… [+2654 chars]"
+    }
+
+    ]
+    }
